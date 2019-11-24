@@ -78,13 +78,13 @@ C++ v11 https://github.com/QueenieCplusplus/Cplusplus11
    範例：
    https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types/blob/master/Interface.cpp
 
-10. 運算子多載
+10. 模板
 
-11. 模板
+11. 泛型
 
-12. 泛型
+12. 傳遞物件，包含 pass by value 和 pass by ref
 
-13. 傳遞物件，包含 pass by value 和 pass by ref
+13. 運算子多載
 
 (TBD...尚未完成。)
 
