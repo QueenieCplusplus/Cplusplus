@@ -39,6 +39,11 @@ BTW，其實筆者我自學 Golang，發現 Go 本身沒有類別也沒有繼承
   
 2. 具體類別
   https://github.com/QueenieCplusplus/Cplusplus_Class
+  
+3. 物件觀念
+  https://github.com/QueenieCplusplus/Cplusplus_Object
+  
+4.
 
 (TBD...尚未完成。)
 
