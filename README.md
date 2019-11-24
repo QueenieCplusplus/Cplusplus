@@ -47,6 +47,7 @@ BTW，其實筆者我自學 Golang，發現 Go 本身沒有類別也沒有繼承
   https://github.com/QueenieCplusplus/Cplusplus_Structure
   
 5. 型別的建構與解構
+  https://github.com/QueenieCplusplus/Cplusplus_destructor
   
 
 (TBD...尚未完成。)
