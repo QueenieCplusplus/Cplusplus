@@ -79,6 +79,7 @@ C++ v11 https://github.com/QueenieCplusplus/Cplusplus11
    https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types/blob/master/Interface.cpp
 
 10. 模板
+  https://github.com/QueenieCplusplus/Cplusplus_Template
 
 11. 泛型
   https://github.com/QueenieCplusplus/Cplusplus_Generics/blob/master/README.md
