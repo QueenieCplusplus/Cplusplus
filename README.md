@@ -16,6 +16,9 @@ BTW，其實筆者我自學 Golang，發現 Go 本身沒有類別也沒有繼承
 
 通透了解這門語言的所有型別
 
+編寫程式的機制
+https://github.com/QueenieCplusplus/ProgramSchema
+
 # 學習程式語言的方法
 
 ＊ 在程式碼中表現出概念
