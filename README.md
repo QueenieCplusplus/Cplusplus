@@ -81,6 +81,7 @@ C++ v11 https://github.com/QueenieCplusplus/Cplusplus11
 10. 模板
 
 11. 泛型
+  https://github.com/QueenieCplusplus/Cplusplus_Generics/blob/master/README.md
 
 12. 傳遞物件，包含 pass by value 和 pass by ref
 
