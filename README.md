@@ -78,6 +78,8 @@ https://github.com/QueenieCplusplus/ProgramSchema
 
 12. 泛型
 
+13. 傳遞物件，包含 pass by value 和 pass by ref
+
 (TBD...尚未完成。)
 
 
