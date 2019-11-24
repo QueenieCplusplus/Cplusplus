@@ -52,6 +52,9 @@ BTW，其實筆者我自學 Golang，發現 Go 本身沒有類別也沒有繼承
 6. 指標與參考 ＊ &
   https://github.com/QueenieCplusplus/Cplusplus_Pointer
   
+7. 主要執行緒 main thread
+  https://github.com/QueenieCplusplus/1122Try
+  
 
 (TBD...尚未完成。)
 
