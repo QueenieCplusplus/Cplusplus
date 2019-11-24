@@ -14,6 +14,12 @@ BTW，其實筆者我自學 Golang，發現 Go 本身沒有類別也沒有繼承
 
 C++ v11 https://github.com/QueenieCplusplus/Cplusplus11
 
+# 推薦書籍
+
+  The Creator of C++ 
+  
+  C++ Premier
+
 # 學習 OOP 語言的建言
 
 通透了解這門語言的所有型別
