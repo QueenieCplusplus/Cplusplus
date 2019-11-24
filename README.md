@@ -74,6 +74,10 @@ https://github.com/QueenieCplusplus/ProgramSchema
 
 10. 運算子多載
 
+11. 模板
+
+12. 泛型
+
 (TBD...尚未完成。)
 
 
