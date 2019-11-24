@@ -32,10 +32,13 @@ https://github.com/QueenieCplusplus/ProgramSchema
 # 維持簡單風格的方式
 
 * Type, 檢查型別（靜態型別） 
+  https://github.com/QueenieCplusplus/Type_Check
 
 * Scope, 讓資訊保留在區域範圍內（避免全域變數、避免使用指標）
+  https://github.com/QueenieCplusplus/Cplusplus_Pointer
 
 * Be Practical, 具體化，避免抽象化 (避免泛型、類別階層導入、參數行為) 
+  https://github.com/QueenieCplusplus/Cplusplus_Class
 
 # 本儲存庫摘要：
 
