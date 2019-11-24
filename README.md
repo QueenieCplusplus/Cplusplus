@@ -37,6 +37,7 @@ BTW，其實筆者我自學 Golang，發現 Go 本身沒有類別也沒有繼承
 1. 介面或是抽象類別
   
 2. 具體類別
+  https://github.com/QueenieCplusplus/Cplusplus_Class
 
 (TBD...尚未完成。)
 
