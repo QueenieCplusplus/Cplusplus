@@ -16,9 +16,9 @@ C++ v11 https://github.com/QueenieCplusplus/Cplusplus11
 
 # 推薦書籍
 
-  The Creator of C++ 
+  The Creator of C++ 撰寫的語法書，能把觀念釐清
   
-  C++ Premier
+  C++ Premier，提供實作範例
 
 # 學習 OOP 語言的建言
 
