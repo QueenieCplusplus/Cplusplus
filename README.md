@@ -12,6 +12,8 @@ C 屬於 Top-Down，而 C++ 屬於 Bottom-Up，彼此不同之處在於，物件
 
 BTW，其實筆者我自學 Golang，發現 Go 本身沒有類別也沒有繼承時，就覺得他的潮會在未來幾年內衰退...(個人淺見)。
 
+C++ v11 https://github.com/QueenieCplusplus/Cplusplus11
+
 # 學習 OOP 語言的建言
 
 通透了解這門語言的所有型別
