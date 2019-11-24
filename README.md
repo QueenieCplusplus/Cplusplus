@@ -68,7 +68,9 @@ https://github.com/QueenieCplusplus/ProgramSchema
   https://github.com/QueenieCplusplus/Type_Check
   
 9. 多型類別
-   範例：https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types/blob/master/Interface.cpp
+
+   範例：
+   https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types/blob/master/Interface.cpp
 
 10. 運算子多載
 
