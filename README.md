@@ -55,6 +55,8 @@ BTW，其實筆者我自學 Golang，發現 Go 本身沒有類別也沒有繼承
 7. 主要執行緒 main thread
   https://github.com/QueenieCplusplus/1122Try
   
+8. 編程員良好的習慣之一：型別檢查
+  https://github.com/QueenieCplusplus/Type_Check
 
 (TBD...尚未完成。)
 
