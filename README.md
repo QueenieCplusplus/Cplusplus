@@ -26,6 +26,7 @@ https://github.com/QueenieCplusplus/ProgramSchema
 ＊ 在程式碼中表現出概念
 
 ＊ 在程式碼中表現概念之間的關係（參數、繼承、擁有權）
+   https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types （繼承關係）
 
 ＊ 讓簡單的事情保持簡約（讓複雜的事情切碎成很多簡單的事情，就能直接去做。）
 
