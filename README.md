@@ -66,6 +66,10 @@ https://github.com/QueenieCplusplus/ProgramSchema
   
 8. 編程員良好的習慣之一：型別檢查
   https://github.com/QueenieCplusplus/Type_Check
+  
+9. 多型類別
+
+10. 運算子多載
 
 (TBD...尚未完成。)
 
