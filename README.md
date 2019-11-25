@@ -154,6 +154,12 @@ _____________
  17. Initialize, 初始化的意義
  
      https://github.com/QueenieCplusplus/Cplusplus_Initialize
+     
+ _____________
+ 
+ 18. Scope, 作用域
+ 
+     
 
 
 
