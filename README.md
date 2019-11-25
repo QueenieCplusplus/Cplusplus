@@ -121,8 +121,6 @@ _____________
 
 11. Template, 模板 (支援泛型)
   https://github.com/QueenieCplusplus/Cplusplus_Template
-  
-_____________
 
 12. Generics, 泛型 (不推薦使用)
   https://github.com/QueenieCplusplus/Cplusplus_Generics/blob/master/README.md
@@ -137,25 +135,23 @@ _____________
 14. Lifecycle, 物件的生命週期 (推薦搭配作用域議題一起看。)
 
     https://github.com/QueenieCplusplus/Cplusplus_LifeCycle
+    
+15. Scope, 作用域
+ 
+     https://github.com/QueenieCplusplus/Cplusplus_Scope
   
 _____________
 
-15. Naming Style, 命名風格 (風格百出，坑洞百出。請一團隊好好遵循一種風格！)
+16. Naming Style, 命名風格 (風格百出，坑洞百出。請一團隊好好遵循一種風格！)
 
     https://github.com/QueenieCplusplus/Cplusplus_NameStyle
     
  _____________
  
- 16. Initialize, 初始化的意義 (動態記憶體配置，建議使用初始化後的變數。)
+ 17. Initialize, 初始化的意義 (動態記憶體配置，建議使用初始化後的變數。)
  
      https://github.com/QueenieCplusplus/Cplusplus_Initialize
-     
- _____________
- 
- 17. Scope, 作用域
- 
-      https://github.com/QueenieCplusplus/Cplusplus_Scope
- 
+
  _____________    
  
  18. Keyword, 25 個關鍵字 (TBD, 待續。)
