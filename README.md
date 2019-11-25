@@ -151,7 +151,7 @@ _____________
     
  _____________
  
- 17. Initialize, 初始化的意義 (動態記憶體配置)
+ 17. Initialize, 初始化的意義 (動態記憶體配置，建議使用初始化後的變數。)
  
      https://github.com/QueenieCplusplus/Cplusplus_Initialize
      
