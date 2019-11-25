@@ -128,7 +128,7 @@ _____________
   
 _____________
 
-13. Func Overload, 運算子多載
+13. Func Overload, 運算子多載 (可以說是同名函數的各種引數型別通行證。)
  https://github.com/QueenieCplusplus/Cplusplus_Pass_Object/blob/master/README.md#ops-overload--func-overload
 
 _____________
