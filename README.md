@@ -135,6 +135,8 @@ _____________
 
 14. Lifecycle, 物件的生命週期
 
+    https://github.com/QueenieCplusplus/Cplusplus_LifeCycle
+
 _____________
 
 15. PolyMorphicsm, 多型類別
