@@ -21,7 +21,7 @@ _____________
   Bjarne Stroustrup, the Creator of C++ 撰寫的語法書 The C++ Programming Language
   能把觀念釐清!
   
-  C++ Premier，提供實作範例
+  C++ Premier Plus，提供實作範例
   
  _____________
 
