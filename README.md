@@ -132,3 +132,11 @@ _____________
  https://github.com/QueenieCplusplus/Cplusplus_Pass_Object/blob/master/README.md#ops-overload--func-overload
 
 _____________
+
+14. Lifecycle, 物件的生命週期
+
+_____________
+
+15. PolyMorphicsm, 多型類別
+
+
