@@ -133,7 +133,7 @@ _____________
 
 _____________
 
-14. Lifecycle, 物件的生命週期
+14. Lifecycle, 物件的生命週期 (推薦搭配作用域議題一起看。)
 
     https://github.com/QueenieCplusplus/Cplusplus_LifeCycle
 
