@@ -113,6 +113,10 @@ _____________
    範例：
    https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types/blob/master/Interface.cpp
    
+10. Ops Overload = Func Overload, 函數多載（同名不同簽名）
+   
+   https://github.com/QueenieCplusplus/Cplusplus_Pass_Object#ops-overload--func-overload
+   
 _____________
 
 10. Template, 模板 (支援泛型)
