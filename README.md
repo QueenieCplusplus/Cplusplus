@@ -119,46 +119,46 @@ _____________
    
 _____________
 
-10. Template, 模板 (支援泛型)
+11. Template, 模板 (支援泛型)
   https://github.com/QueenieCplusplus/Cplusplus_Template
   
 _____________
 
-11. Generics, 泛型 (不推薦使用)
+12. Generics, 泛型 (不推薦使用)
   https://github.com/QueenieCplusplus/Cplusplus_Generics/blob/master/README.md
   
 _____________
 
-12. Pass Obj, 傳遞物件，包含 pass by value 和 pass by ref
+13. Pass Obj, 傳遞物件，包含 pass by value 和 pass by ref
   https://github.com/QueenieCplusplus/Cplusplus_Pass_Object
   
 _____________
 
-13. Lifecycle, 物件的生命週期 (推薦搭配作用域議題一起看。)
+14. Lifecycle, 物件的生命週期 (推薦搭配作用域議題一起看。)
 
     https://github.com/QueenieCplusplus/Cplusplus_LifeCycle
   
 _____________
 
-14. Naming Style, 命名風格 (風格百出，坑洞百出。請一團隊好好遵循一種風格！)
+15. Naming Style, 命名風格 (風格百出，坑洞百出。請一團隊好好遵循一種風格！)
 
     https://github.com/QueenieCplusplus/Cplusplus_NameStyle
     
  _____________
  
- 15. Initialize, 初始化的意義 (動態記憶體配置，建議使用初始化後的變數。)
+ 16. Initialize, 初始化的意義 (動態記憶體配置，建議使用初始化後的變數。)
  
      https://github.com/QueenieCplusplus/Cplusplus_Initialize
      
  _____________
  
- 16. Scope, 作用域
+ 17. Scope, 作用域
  
       https://github.com/QueenieCplusplus/Cplusplus_Scope
  
  _____________    
  
- 17. Keyword, 25 個關鍵字 (TBD, 待續。)
+ 18. Keyword, 25 個關鍵字 (TBD, 待續。)
  
       https://github.com/QueenieCplusplus/Cplusplus_KeyWords/blob/master/README.md
  
