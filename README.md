@@ -136,7 +136,7 @@ _____________
    
 _____________
 
-12. Template, 模板 (支援泛型)
+12. Template, 模板 (支援泛型，手機元件常用。)
   https://github.com/QueenieCplusplus/Cplusplus_Template
 
 13. Generics, 泛型 (不推薦使用)
