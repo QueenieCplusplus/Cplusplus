@@ -131,7 +131,12 @@ _____________
 
 13. Generics, 泛型 (不推薦使用)
   https://github.com/QueenieCplusplus/Cplusplus_Generics/blob/master/README.md
-  
+
+
+模板與泛型之間的關係：
+
+    利用尚未定義好的泛型，並且以特定型態使用樣板，兩者合作定義出特殊的類別。
+
 _____________
 
 14. Pass Obj, 傳遞物件，包含 pass by value 和 pass by ref
