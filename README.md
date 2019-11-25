@@ -69,10 +69,12 @@ _____________
 _____________
 
 1. Abstract Class, 介面或是抽象類別
-  https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types
+
+   https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types
   
 2. Concrete Class, 具體類別
-  https://github.com/QueenieCplusplus/Cplusplus_Class
+
+    https://github.com/QueenieCplusplus/Cplusplus_Class
    
 3. Inheitance, 繼承 (物件導向的精華)
 
@@ -86,25 +88,30 @@ _____________
 _____________
 
 4. Obj, 物件觀念
-  https://github.com/QueenieCplusplus/Cplusplus_Object
+
+    https://github.com/QueenieCplusplus/Cplusplus_Object
   
 _____________
   
 5. Structure, 結構型別
-  https://github.com/QueenieCplusplus/Cplusplus_Structure
+
+    https://github.com/QueenieCplusplus/Cplusplus_Structure
   
 6. stuctor & destructor, 型別的建構與解構
-  https://github.com/QueenieCplusplus/Cplusplus_destructor
+
+    https://github.com/QueenieCplusplus/Cplusplus_destructor
   
 _____________
   
 7. Ptr & Ref, 指標與參考 ＊ & （不推薦使用）
-  https://github.com/QueenieCplusplus/Cplusplus_Pointer
+
+    https://github.com/QueenieCplusplus/Cplusplus_Pointer
   
 _____________
   
 8. Main Thread, 主要執行緒
-  https://github.com/QueenieCplusplus/1122Try
+
+    https://github.com/QueenieCplusplus/1122Try
   
 _____________
   
@@ -122,7 +129,7 @@ _____________
    
 11. Ops Overload = Func Overload, 函數多載（同名不同簽名）
    
-   https://github.com/QueenieCplusplus/Cplusplus_Pass_Object#ops-overload--func-overload
+     https://github.com/QueenieCplusplus/Cplusplus_Pass_Object#ops-overload--func-overload
    
 _____________
 
