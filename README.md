@@ -101,7 +101,7 @@ _____________
   
 _____________
   
-8. Type Check, 編程員良好的習慣之一：型別檢查
+8. Type Check, 編程員良好的習慣之一：型別檢查 （函數本體檢驗輸入值的代碼...通常是體積膨脹關鍵之一）
   https://github.com/QueenieCplusplus/Type_Check
   
 _____________
