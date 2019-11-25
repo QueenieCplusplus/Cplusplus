@@ -139,7 +139,7 @@ _____________
 
 _____________
 
-15. PolyMorphicsm, 多型類別 （筆者認為此議題稍難．．．）
+15. PolyMorphicsm, 多型類別 （筆者認為此議題概念與運算子多載觀念相同，只是到類別階層。）
 
     https://github.com/QueenieCplusplus/Cplusplus_PolyMorphicsm
     
