@@ -16,7 +16,8 @@ C++ v11 https://github.com/QueenieCplusplus/Cplusplus11
 
 # 推薦書籍
 
-  The Creator of C++ 撰寫的語法書，能把觀念釐清
+  Bjarne Stroustrup, the Creator of C++ 撰寫的語法書 The C++ Programming Language
+  能把觀念釐清!
   
   C++ Premier，提供實作範例
 
