@@ -106,7 +106,9 @@ _____________
   
 _____________
   
-9. Polymorphism, 多型類別
+9. Polymorphism, 多型類別 (同名異式，類似運算子多載概念套用到類別階層。)
+
+   https://github.com/QueenieCplusplus/Cplusplus_PolyMorphicsm
 
    範例：
    https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types/blob/master/Interface.cpp
@@ -128,42 +130,31 @@ _____________
   
 _____________
 
-13. Func Overload, 運算子多載 (可以說是同名函數的各種引數型別通行證。)
- https://github.com/QueenieCplusplus/Cplusplus_Pass_Object/blob/master/README.md#ops-overload--func-overload
-
-_____________
-
-14. Lifecycle, 物件的生命週期 (推薦搭配作用域議題一起看。)
+13. Lifecycle, 物件的生命週期 (推薦搭配作用域議題一起看。)
 
     https://github.com/QueenieCplusplus/Cplusplus_LifeCycle
-
+  
 _____________
 
-15. PolyMorphicsm, 多型類別 （筆者認為此議題概念與運算子多載觀念相同，只是到類別階層。）
-
-    https://github.com/QueenieCplusplus/Cplusplus_PolyMorphicsm
-    
-_____________
-
-16. Naming Style, 命名風格 (風格百出，坑洞百出。請一團隊好好遵循一種風格！)
+14. Naming Style, 命名風格 (風格百出，坑洞百出。請一團隊好好遵循一種風格！)
 
     https://github.com/QueenieCplusplus/Cplusplus_NameStyle
     
  _____________
  
- 17. Initialize, 初始化的意義 (動態記憶體配置，建議使用初始化後的變數。)
+ 15. Initialize, 初始化的意義 (動態記憶體配置，建議使用初始化後的變數。)
  
      https://github.com/QueenieCplusplus/Cplusplus_Initialize
      
  _____________
  
- 18. Scope, 作用域
+ 16. Scope, 作用域
  
       https://github.com/QueenieCplusplus/Cplusplus_Scope
  
  _____________    
  
- 19. Keyword, 25 個關鍵字 (TBD, 待續。)
+ 17. Keyword, 25 個關鍵字 (TBD, 待續。)
  
       https://github.com/QueenieCplusplus/Cplusplus_KeyWords/blob/master/README.md
  
