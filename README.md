@@ -115,10 +115,10 @@ _____________
   
 10. Polymorphism, 多型類別 (同名異式，類似運算子多載概念套用到類別階層。)
 
-   https://github.com/QueenieCplusplus/Cplusplus_PolyMorphicsm
+    https://github.com/QueenieCplusplus/Cplusplus_PolyMorphicsm
 
    範例：
-   https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types/blob/master/Interface.cpp
+        https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types/blob/master/Interface.cpp
    
 11. Ops Overload = Func Overload, 函數多載（同名不同簽名）
    
