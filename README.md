@@ -65,7 +65,7 @@ C++ v11 https://github.com/QueenieCplusplus/Cplusplus11
 5. stuctor & destructor, 型別的建構與解構
   https://github.com/QueenieCplusplus/Cplusplus_destructor
   
-6. Ptr & Ref, 指標與參考 ＊ &
+6. Ptr & Ref, 指標與參考 ＊ & （不推薦使用）
   https://github.com/QueenieCplusplus/Cplusplus_Pointer
   
 7. Main Thread, 主要執行緒
@@ -82,7 +82,7 @@ C++ v11 https://github.com/QueenieCplusplus/Cplusplus11
 10. Template, 模板
   https://github.com/QueenieCplusplus/Cplusplus_Template
 
-11. Generics, 泛型
+11. Generics, 泛型 (不推薦使用)
   https://github.com/QueenieCplusplus/Cplusplus_Generics/blob/master/README.md
 
 12. Pass Obj, 傳遞物件，包含 pass by value 和 pass by ref
