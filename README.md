@@ -106,7 +106,7 @@ _____________
   
 _____________
   
-9. 多型類別
+9. Polymorphism, 多型類別
 
    範例：
    https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types/blob/master/Interface.cpp
