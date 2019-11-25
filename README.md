@@ -113,7 +113,7 @@ _____________
    
 _____________
 
-10. Template, 模板
+10. Template, 模板 (支援泛型)
   https://github.com/QueenieCplusplus/Cplusplus_Template
   
 _____________
@@ -148,5 +148,9 @@ _____________
 16. Naming Style, 命名風格
 
     https://github.com/QueenieCplusplus/Cplusplus_NameStyle
+    
+ _____________
+ 
+ 17. Initialize, 初始化的意義
 
 
