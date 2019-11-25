@@ -139,7 +139,7 @@ _____________
 
 _____________
 
-15. PolyMorphicsm, 多型類別
+15. PolyMorphicsm, 多型類別 （筆者認為此議題稍難．．．）
 
     https://github.com/QueenieCplusplus/Cplusplus_PolyMorphicsm
     
