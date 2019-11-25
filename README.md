@@ -145,7 +145,7 @@ _____________
     
 _____________
 
-16. Naming Style, 命名風格
+16. Naming Style, 命名風格 (風格百出，坑洞百出。請一團隊好好遵循一種風格！)
 
     https://github.com/QueenieCplusplus/Cplusplus_NameStyle
     
