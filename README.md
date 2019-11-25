@@ -88,13 +88,6 @@ C++ v11 https://github.com/QueenieCplusplus/Cplusplus11
   https://github.com/QueenieCplusplus/Cplusplus_Pass_Object
 
 13. 運算子多載
-
-(TBD...尚未完成。)
-
-
-
-
-
-
+ https://github.com/QueenieCplusplus/Cplusplus_Pass_Object/blob/master/README.md#ops-overload--func-overload
 
 
