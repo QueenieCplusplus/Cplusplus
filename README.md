@@ -50,28 +50,28 @@ C++ v11 https://github.com/QueenieCplusplus/Cplusplus11
 
 # 本儲存庫摘要：
 
-1. 介面或是抽象類別
+1. Abstract Class, 介面或是抽象類別
   https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types
   
-2. 具體類別
+2. Concrete Class, 具體類別
   https://github.com/QueenieCplusplus/Cplusplus_Class
   
-3. 物件觀念
+3. Obj, 物件觀念
   https://github.com/QueenieCplusplus/Cplusplus_Object
   
-4. 結構型別
+4. Structure, 結構型別
   https://github.com/QueenieCplusplus/Cplusplus_Structure
   
-5. 型別的建構與解構
+5. stuctor & destructor, 型別的建構與解構
   https://github.com/QueenieCplusplus/Cplusplus_destructor
   
-6. 指標與參考 ＊ &
+6. Ptr & Ref, 指標與參考 ＊ &
   https://github.com/QueenieCplusplus/Cplusplus_Pointer
   
-7. 主要執行緒 main thread
+7. Main Thread, 主要執行緒
   https://github.com/QueenieCplusplus/1122Try
   
-8. 編程員良好的習慣之一：型別檢查
+8. Type Check, 編程員良好的習慣之一：型別檢查
   https://github.com/QueenieCplusplus/Type_Check
   
 9. 多型類別
@@ -79,16 +79,16 @@ C++ v11 https://github.com/QueenieCplusplus/Cplusplus11
    範例：
    https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types/blob/master/Interface.cpp
 
-10. 模板
+10. Template, 模板
   https://github.com/QueenieCplusplus/Cplusplus_Template
 
-11. 泛型
+11. Generics, 泛型
   https://github.com/QueenieCplusplus/Cplusplus_Generics/blob/master/README.md
 
-12. 傳遞物件，包含 pass by value 和 pass by ref
+12. Pass Obj, 傳遞物件，包含 pass by value 和 pass by ref
   https://github.com/QueenieCplusplus/Cplusplus_Pass_Object
 
-13. 運算子多載
+13. Func Overload, 運算子多載
  https://github.com/QueenieCplusplus/Cplusplus_Pass_Object/blob/master/README.md#ops-overload--func-overload
 
 
