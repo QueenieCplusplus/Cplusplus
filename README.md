@@ -14,12 +14,16 @@ BTW，其實筆者我自學 Golang，發現 Go 本身沒有類別也沒有繼承
 
 C++ v11 https://github.com/QueenieCplusplus/Cplusplus11
 
+_____________
+
 # 推薦書籍
 
   Bjarne Stroustrup, the Creator of C++ 撰寫的語法書 The C++ Programming Language
   能把觀念釐清!
   
   C++ Premier，提供實作範例
+  
+ _____________
 
 # 學習 OOP 語言的建言
 
@@ -27,6 +31,8 @@ C++ v11 https://github.com/QueenieCplusplus/Cplusplus11
 
 編寫程式的機制
   https://github.com/QueenieCplusplus/ProgramSchema
+  
+  _____________
 
 # 學習程式語言的方法
 
@@ -37,16 +43,26 @@ C++ v11 https://github.com/QueenieCplusplus/Cplusplus11
 
 ＊ 讓簡單的事情保持簡約（讓複雜的事情切碎成很多簡單的事情，就能直接去做。）
 
+_____________
+
 # 維持簡單風格的方式
+
+_____________
 
 * Type, 檢查型別（靜態型別） 
   https://github.com/QueenieCplusplus/Type_Check
+  
+  _____________
 
 * Scope, 讓資訊保留在區域範圍內（避免全域變數、避免使用指標）
   https://github.com/QueenieCplusplus/Cplusplus_Pointer
+  
+  _____________
 
 * Be Practical, 具體化，避免抽象化 (避免泛型、類別階層導入、參數行為) 
   https://github.com/QueenieCplusplus/Cplusplus_Class
+  
+  _____________
 
 # 本儲存庫摘要：
 
