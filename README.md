@@ -73,86 +73,95 @@ _____________
   
 2. Concrete Class, 具體類別
   https://github.com/QueenieCplusplus/Cplusplus_Class
-  
+   
+3. Inheitance, 繼承 (物件導向的精華)
+
+＊ 基礎類別衍生出了子類別
+
+   is a 概念
+
+＊ 公用繼承
+
+  has a 概念：一汽車類別有其他類別的引擎物件，這涉及到對物件成員做 private 和 protected，藉此保護資料 data hidden。
 _____________
 
-3. Obj, 物件觀念
+4. Obj, 物件觀念
   https://github.com/QueenieCplusplus/Cplusplus_Object
   
 _____________
   
-4. Structure, 結構型別
+5. Structure, 結構型別
   https://github.com/QueenieCplusplus/Cplusplus_Structure
   
-5. stuctor & destructor, 型別的建構與解構
+6. stuctor & destructor, 型別的建構與解構
   https://github.com/QueenieCplusplus/Cplusplus_destructor
   
 _____________
   
-6. Ptr & Ref, 指標與參考 ＊ & （不推薦使用）
+7. Ptr & Ref, 指標與參考 ＊ & （不推薦使用）
   https://github.com/QueenieCplusplus/Cplusplus_Pointer
   
 _____________
   
-7. Main Thread, 主要執行緒
+8. Main Thread, 主要執行緒
   https://github.com/QueenieCplusplus/1122Try
   
 _____________
   
-8. Type Check, 編程員良好的習慣之一：型別檢查 （函數本體檢驗輸入值的代碼...通常是體積膨脹關鍵之一）
+9. Type Check, 編程員良好的習慣之一：型別檢查 （函數本體檢驗輸入值的代碼...通常是體積膨脹關鍵之一）
   https://github.com/QueenieCplusplus/Type_Check
   
 _____________
   
-9. Polymorphism, 多型類別 (同名異式，類似運算子多載概念套用到類別階層。)
+10. Polymorphism, 多型類別 (同名異式，類似運算子多載概念套用到類別階層。)
 
    https://github.com/QueenieCplusplus/Cplusplus_PolyMorphicsm
 
    範例：
    https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types/blob/master/Interface.cpp
    
-10. Ops Overload = Func Overload, 函數多載（同名不同簽名）
+11. Ops Overload = Func Overload, 函數多載（同名不同簽名）
    
    https://github.com/QueenieCplusplus/Cplusplus_Pass_Object#ops-overload--func-overload
    
 _____________
 
-11. Template, 模板 (支援泛型)
+12. Template, 模板 (支援泛型)
   https://github.com/QueenieCplusplus/Cplusplus_Template
 
-12. Generics, 泛型 (不推薦使用)
+13. Generics, 泛型 (不推薦使用)
   https://github.com/QueenieCplusplus/Cplusplus_Generics/blob/master/README.md
   
 _____________
 
-13. Pass Obj, 傳遞物件，包含 pass by value 和 pass by ref
+14. Pass Obj, 傳遞物件，包含 pass by value 和 pass by ref
   https://github.com/QueenieCplusplus/Cplusplus_Pass_Object
   
 _____________
 
-14. Lifecycle, 物件的生命週期 (推薦搭配作用域議題一起看。)
+15. Lifecycle, 物件的生命週期 (推薦搭配作用域議題一起看。)
 
     https://github.com/QueenieCplusplus/Cplusplus_LifeCycle
     
-15. Scope, 作用域
+16. Scope, 作用域
  
      https://github.com/QueenieCplusplus/Cplusplus_Scope
   
 _____________
 
-16. Naming Style, 命名風格 (風格百出，坑洞百出。請一團隊好好遵循一種風格！)
+17. Naming Style, 命名風格 (風格百出，坑洞百出。請一團隊好好遵循一種風格！)
 
     https://github.com/QueenieCplusplus/Cplusplus_NameStyle
     
  _____________
  
- 17. Initialize, 初始化的意義 (動態記憶體配置，建議使用初始化後的變數。)
+ 18. Initialize, 初始化的意義 (動態記憶體配置，建議使用初始化後的變數。)
  
      https://github.com/QueenieCplusplus/Cplusplus_Initialize
 
  _____________    
  
- 18. Keyword, 25 個關鍵字 (TBD, 待續。)
+ 19. Keyword, 25 個關鍵字 (TBD, 待續。)
  
       https://github.com/QueenieCplusplus/Cplusplus_KeyWords/blob/master/README.md
  
