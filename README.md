@@ -99,6 +99,8 @@ _____________
    https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types  (抽象類別)
    
    https://github.com/QueenieCplusplus/Cplusplus_Interface  (介面)
+   
+   ...(類別公私有物件的存取權限)
   
 2. Concrete Class, 具體類別
 
