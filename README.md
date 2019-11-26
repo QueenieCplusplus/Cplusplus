@@ -96,7 +96,9 @@ _____________
 
 1. Abstract Class, 介面或是抽象類別
 
-   https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types
+   https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types (抽象類別)
+   
+   (介面)
   
 2. Concrete Class, 具體類別
 
