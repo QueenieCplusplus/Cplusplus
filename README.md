@@ -96,9 +96,9 @@ _____________
 
 1. Abstract Class, 介面或是抽象類別
 
-   https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types  (抽象類別)
+   https://github.com/QueenieCplusplus/Cplusplus_Abstract_Types  (抽象類別，介面定義不完全)
    
-   https://github.com/QueenieCplusplus/Cplusplus_Interface  (介面)
+   https://github.com/QueenieCplusplus/Cplusplus_Interface  (介面即公有成員函數)
    
    https://github.com/QueenieCplusplus/Cplusplus_Accessor (類別公私有物件的存取權限)
   
