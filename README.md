@@ -131,7 +131,7 @@ _____________
   
 6. stuctor & destructor, 型別的建構與解構
 
-    https://github.com/QueenieCplusplus/Cplusplus_destructor
+    https://github.com/QueenieCplusplus/Cplusplus_destructor (透過建構函數對私有物件初始化)
   
 _____________
   
