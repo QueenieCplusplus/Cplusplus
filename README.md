@@ -105,6 +105,8 @@ _____________
 2. Concrete Class, 具體類別
 
     https://github.com/QueenieCplusplus/Cplusplus_Class
+    
+    ...(實作專區成員函數)
    
 3. Inheitance, 繼承 (物件導向的精華)
 
