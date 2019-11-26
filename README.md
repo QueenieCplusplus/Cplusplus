@@ -102,7 +102,7 @@ _____________
    
    https://github.com/QueenieCplusplus/Cplusplus_Accessor (類別公私有物件的存取權限)
   
-2. Concrete Class, 具體類別
+2. Concrete Class, 具體類別（*＊＊推薦實做練習）
 
     https://github.com/QueenieCplusplus/Cplusplus_Class
     
@@ -125,7 +125,7 @@ _____________
   
 _____________
   
-5. Structure, 結構型別
+5. Structure, 結構型別 （*＊＊推薦實做練習）
 
     https://github.com/QueenieCplusplus/Cplusplus_Structure
   
@@ -213,9 +213,3 @@ _____________
       https://github.com/QueenieCplusplus/Cplusplus_KeyWords/blob/master/README.md
  
  
-
-
-
-
-
-
